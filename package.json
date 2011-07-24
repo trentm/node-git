@@ -4,7 +4,7 @@
 , "author" :          "Christian Amor Kvalheim <christkv@gmail.com>"
 , "contributors" :  []
 , "repository" :    { "type" :  "git"
-                    , "url" :   "git@github.com:christkv/node-git.git" }
+                    , "url" :   "git@github.com:trentm/node-git.git" }
 , "bugs" :          { "mail" :  "node-git@googlegroups.com"
                     , "web" :   "http://groups.google.com/group/nodegit" }
 , "os" :            [ "linux"
