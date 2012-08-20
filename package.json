@@ -1,6 +1,6 @@
 { "name" :            "trentm-git"
 , "description" :     "A node.js library for git (a fork to publish some fixes to npm)"
-, "version" :         "0.1.3"
+, "version" :         "0.1.3.1"
 , "author" :          "Christian Amor Kvalheim <christkv@gmail.com>"
 , "contributors" :  []
 , "repository" :    { "type" :  "git"
