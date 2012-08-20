@@ -9,6 +9,7 @@
                     , "web" :   "http://groups.google.com/group/nodegit" }
 , "os" :            [ "linux"
                     , "darwin"
+                    , "sunos"
                     , "freebsd" ]
 , "main":             "./lib/git/index"
 , "directories" :   { "lib" : "./lib/git" }
